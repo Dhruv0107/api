@@ -1,0 +1,65 @@
+.content
+{
+  background-color: #3C3E44;
+  color: #fff;
+  height: 250px;
+  width: 300px!important;
+  margin-left: -12px;
+  border-radius:0px 10px 10px 0px;
+  margin-top: 20px;
+}
+.img img
+{
+  height: 250px;
+  border-radius: 10px 0px 0px 10px;
+}
+.heading
+{
+  font-weight: 800;
+  font-size: 100px;
+  margin-bottom: 80px;
+}
+.main-menu li
+{
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 17px;
+  transition: 0.3s;
+}
+.bor
+{
+  border: 1px solid orange;
+  border-radius: 10px;
+}
+.set
+{
+  background-color:#202329;
+}
+.main-menu li:hover
+{
+  color: orange;
+}
+.footer
+{
+  background-color: #202329;
+  color: #83889a;
+  height: 40vh;
+  text-align: center;
+}
+.footer ul li:hover
+{
+  color: orange;
+}
+.footer ul li
+{
+  transition: 0.3s;
+}
+.copy  a
+{
+ color: #fff!important;
+ text-decoration: underline;
+}
+.copy:hover a
+{
+  color: orange;
+}
